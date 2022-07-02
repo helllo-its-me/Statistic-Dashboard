@@ -1,0 +1,42 @@
+.App {
+  text-align: center;
+}
+
+.header {
+  height: 50px;
+  background-color: #000000;
+}
+
+.content {
+  width: 95%;
+  margin: 0 auto;
+}
+.container-for-datapicker {
+  margin-bottom: 10px;
+  padding-left: 74px;
+  padding-top: 10px;
+}
+.container-for-select {
+  display: flex;
+}
+.container-for-sendbutton {
+  text-align: right;
+
+  margin: 0 auto;
+  margin-top: 10px;
+}
+.button-send {
+  background-color: #e3ffde;
+  width: 200px;
+}
+
+.container-for-table {
+  width: 95%;
+  margin: 0 auto;
+}
+.select {
+  display: flex;
+  justify-content: space-between;
+  flex-direction: column;
+  padding-bottom: 50px;
+}
